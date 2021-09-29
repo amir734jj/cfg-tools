@@ -7,3 +7,7 @@ Context-Free-Grammar tools
 - Predict
 - Left refactor
 - Well defined
+
+
+TODO:
+- LR(1) parser
